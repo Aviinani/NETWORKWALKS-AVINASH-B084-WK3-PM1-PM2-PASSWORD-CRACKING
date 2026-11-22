@@ -60,10 +60,6 @@ cd ~/Downloads
 ls
 ```
 
-**Screenshot 01 – Locating the Internship PDF Files**
-
-<!-- INSERT SCREENSHOT 01 HERE -->
-
 ### 3.2 Extracting the PDF Password Hash
 
 After locating the encrypted PDF, I used the `pdf2john` utility to extract its password hash.
