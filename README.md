@@ -122,8 +122,8 @@ These screenshots serve as additional evidence of completing the assigned JTR ac
 <img width="1600" height="719" alt="WhatsApp Image 2026-11-22 at 4 22 19 PM (3)" src="https://github.com/user-attachments/assets/34b87419-c00e-4479-a85a-31681e133f11" />
 
 
+<img width="1600" height="659" alt="WhatsApp Image 2026-11-22 at 4 22 18 PM" src="https://github.com/user-attachments/assets/92305804-0a57-4083-b56b-5d11f7117011" />
 
-<img width="1600" height="709" alt="WhatsApp Image 2026-11-22 at 4 22 19 PM (1)" src="https://github.com/user-attachments/assets/523a91e0-1bae-4479-846f-d1fc6056fa85" />
 
 
 ## PM1 – Learning Outcome
